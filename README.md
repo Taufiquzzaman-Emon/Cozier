@@ -1,16 +1,58 @@
-# React + Vite
+# Cozier – Modern Clothing Ecommerce Website  
+*Fashion for Men, Women & Children*
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cozier is a modern, fully responsive ecommerce platform designed for a multi-category clothing brand. It provides a clean shopping experience and showcases apparel collections for men, women, and children with a focus on simplicity, speed, and premium UI design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+### 👗 Clothing Collections
+- Men’s apparel  
+- Women’s apparel  
+- Children’s apparel  
+- Category-based browsing and product discovery  
+- High-quality product images and clean layouts
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🛍️ Shopping Experience
+- Add to cart  
+- Remove items  
+- Adjust item quantities  
+- Live cart total calculation  
 
-## Expanding the ESLint configuration
+### 📄 Product Pages
+- Image previews  
+- Product description, sizing, and pricing  
+- Easy navigation between products
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 👤 User Interface
+- Clean, modern navigation bar  
+- Responsive homepage sections  
+- Professional footer with company and contact information  
+- Fully mobile-friendly design using TailwindCSS
+
+### 🔐 Authentication (UI only)
+- Login page  
+- Signup page  
+- Extendable for backend integration
+
+### 📦 Orders & Checkout
+- Order summary  
+- Checkout form  
+- Order completion screen  
+- Order history page
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – Frontend framework  
+- **TailwindCSS** – Styling  
+- **React Router** – Page routing  
+- **React Icons** – Iconography  
+- **Vite** (if applicable) – Fast development build tool  
+
+---
+
+## 📂 Project Structure
+
